@@ -1,0 +1,11 @@
+.env
+.env.*
+.env.local
+node_modules/
+.next/
+out/
+.turbo/
+*.log
+README.md
+CLAUDE.md
+AGENTS.md
